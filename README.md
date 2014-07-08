@@ -1,5 +1,9 @@
 datasci_course_materials
 ========================
 
-Public repository for course materials for the Spring 2013 session of Introduction to Data Science, an online coursera course.
+My cloned repository for course materials for the Summer 2014 session of Introduction to Data Science from Coursera
+
+Updated with my solution for each assignment.
+
+Assignment1-Twitter Sentiment Analysis in Python
 
