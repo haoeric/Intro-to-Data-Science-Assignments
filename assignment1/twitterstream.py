@@ -1,7 +1,9 @@
 import oauth2 as oauth
 import urllib2 as urllib
 
-# See Assignment 1 instructions or README for how to get these credentials
+# this script used to get data from twitter API
+
+# initialize this key and token with my twitter account
 access_token_key = "2608811599-ecnAJholCTAQFlph1F30Ua6t5oBXNdqzilrfJcq"
 access_token_secret = "pReRgSKkgjTGEAwImt8ZeNyjwaJlBmRyPiOoOMHNpOrm1"
 
