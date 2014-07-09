@@ -1,5 +1,5 @@
-Twitter Sentiment Analysis in Python: Instructions Help
-
+#Twitter Sentiment Analysis in Python: Instructions Help
+9 JUL 2014
 Twitter represents a fundamentally new instrument to make social measurements. Millions of people voluntarily express opinions across any topic imaginable --- this data source is incredibly valuable for both research and business.
 
 For example, researchers have shown that the "mood" of communication on twitter reflects biological rhythms and can even used to predict the stock market. A student here at UW used geocoded tweets to plot a map of locations where "thunder" was mentioned in the context of a storm system in Summer 2012.
